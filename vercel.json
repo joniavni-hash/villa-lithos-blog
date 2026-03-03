@@ -1,0 +1,9 @@
+{
+    "redirects": [
+          {
+                  "source": "/(.*)",
+                  "destination": "https://www.villalithosgreece.com/$1",
+                  "permanent": true
+          }
+    ]
+}
